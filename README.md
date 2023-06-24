@@ -1,4 +1,6 @@
 [![chandrakethan27's GitHub | Stats](https://stats.quine.sh/chandrakethan27/github?theme=dark)](https://quine.sh)
+[![chandrakethan27's GitHub | Languages Over Time](https://stats.quine.sh/chandrakethan27/languages-over-time?theme=dark)](https://quine.sh)
+[![chandrakethan27's GitHub | Topics Over Time](https://stats.quine.sh/chandrakethan27/topics-over-time?theme=dark)](https://quine.sh)
 <!--
 **chandrakethan27/chandrakethan27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
