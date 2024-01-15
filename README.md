@@ -17,7 +17,7 @@
  <h3 align = "center">► Contact Me:</h3>
 <p align='middle'>
 <a href="https://instagram.com/chandrakethan27"><img height="43" src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>&nbsp;&nbsp;
-<a href="https://twitter.com/chandrakethan27"><img height="40" src="https://img.icons8.com/office/40/000000/twitter.png"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/chandrakethan27"><img height="40" src="https://icons8.com/icon/phOKFKYpe00C/twitterx"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/chandrakethan-sivarathri-a90924219/"><img alt="LinkedIn" height="40" width="40" src="https://img.icons8.com/ultraviolet/40/000000/linkedin.png"/></a>
 <a href="https://medium.com/@s.chandrakethan9"><img alt="Medium" height="40" width="40" src="https://icons8.com/icon/BzFWSIqh6bCr/medium"/></a>
 <i>- Chandrakethan</i>
