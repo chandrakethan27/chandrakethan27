@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=520&lines=Hi+%F0%9F%91%8B%2C+I+am+Chandrakethan+From+Hyderabad+%F0%9F%87%AE%F0%9F%87%B3.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=520&lines=Hi+%F0%9F%91%8B%2C+I+am+Chandrakethan+From+Hyderabad.)](https://git.io/typing-svg)
 - 👀 Web Development - MERN |
      Machine Learning | Python |
      OPEN SOURCE
