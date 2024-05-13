@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **NextJS and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [www.ckethan.tech](www.ckethan.tech)
-
 - 📝 I regularly write articles on [Web Development](Web Development)
 
 - 💬 Ask me about **ReactJS, TaiwlindCss**
