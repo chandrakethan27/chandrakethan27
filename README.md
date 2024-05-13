@@ -11,15 +11,11 @@
 
 - 📝 I regularly write articles on [Web Development](Web Development)
 
-- 💬 Ask me about **ReactJS, TaiwlindCss**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **s.chandrakethan9@gmail.com**
 
 - ⚡ Fun fact **I am a fulltime console gamer**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
