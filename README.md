@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS and Machine Learning**
 
-- 📝 I regularly write articles on [Web Development]
+- 📝 I regularly write articles on **Web Development**
 
 - 💬 Ask me about **MERN Stack**
 
