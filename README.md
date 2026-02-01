@@ -1,118 +1,72 @@
 <h1 align="center">Hey 👋 I’m Chandra Kethan</h1>
-<h3 align="center">Full-Stack Developer • Automation Engineer • AI Builder from India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer • Automation Engineer • AI Builder 🇮🇳</h3>
 
 <p align="center">
 Building products, automations, and learning LLM engineering in public.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandrakethan27&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=chandrakethan27&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 About
 
-- Application Developer @ IBM 
-- Full-stack developer
-- Learning LLM Engineering + ML
-- Content creator sharing real builds on LinkedIn & Instagram
+- Application Developer @ IBM  
+- Full-stack + Automation + AI  
+- Learning LLM Engineering & ML  
+- Content creator (LinkedIn + IG)
 
-
-I focus on **building practical systems**:
-- Automation pipelines  
-- Full-stack apps  
-- AI powered workflows  
-- Micro SaaS experiments  
-
-Goal: Ship products, grow in public.
+Building:
+- Automations
+- Full-stack apps
+- AI workflows
+- Micro SaaS
 
 ---
 
 ## 🧠 Current Focus
 
-- LLM engineering fundamentals (tokenization, embeddings, RAG)
-- Next.js + TypeScript production apps
-- Python for ML + automations
+- LLM fundamentals (RAG, embeddings)
+- Next.js + TypeScript
+- Python automations
 - SaaS MVPs
-- Personal brand through technical content
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
-- React
-- Next.js
-- TypeScript
-- Tailwind
-
-**Backend**
-- Node.js
-- Python
-- Express
-
-**Databases**
-- PostgreSQL
-- MySQL
-- MongoDB
-
-**Automation / AI**
-- Power Automate
-- RPA workflows
-- OpenAI APIs
-- LLM tooling
-
-**Other**
-- Git
-- Figma
-- GraphQL
-
----
-
-## 📦 What You’ll Find Here
-
-Most repos are:
-
-- Real projects (not tutorial dumps)
-- Learning experiments in LLMs & ML
-- Automation systems
-- Frontend builds
-- Micro-SaaS prototypes
-
-Each repo contains:
-- Clear README
-- Architecture notes
-- What I learned
-- Next improvements
-
-I optimize for **learning velocity over perfection**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrakethan27&show_icons=true&locale=en&layout=compact" />
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="35"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=chandrakethan27&layout=compact" />
+</p>
+
+---
+
+## 🌐 Connect
 
 - LinkedIn: https://linkedin.com/in/chandrakethan-sivarathri  
 - Instagram: https://instagram.com/iamchandrakethan  
 - Medium: https://medium.com/@s.chandrakethan9  
-- Dev.to: https://dev.to/chandrakethan27  
-- LeetCode: https://www.leetcode.com/kethan009  
 
-📫 Email: chandrakethan.work@gmail.com  
+📫 chandrakethan.work@gmail.com  
 
 ---
 
-### ⚡ Philosophy
-
-Build fast. Learn publicly. Ship consistently.
-
-If something here helps you, feel free to star ⭐  
-If you want to collaborate, just DM.
+⚡ Build fast. Learn publicly. Ship consistently.
