@@ -106,7 +106,7 @@ I optimize for **learning velocity over perfection**.
 - Dev.to: https://dev.to/chandrakethan27  
 - LeetCode: https://www.leetcode.com/kethan009  
 
-📫 Email: s.chandrakethan9@gmail.com  
+📫 Email: chandrakethan.work@gmail.com  
 
 ---
 
