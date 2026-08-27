@@ -15,12 +15,12 @@
 
 - 🤖 **AI Engineer** specializing in RAG architectures & autonomous multi-agent systems
 - 📖 Author of **[The AI Engineering Guide](https://chandrakethan.com/learn)**
-- 🎥 Content Creator documenting AI engineering & system design (10K+ community)
+- 🎥 Content Creator documenting AI engineering (10K+ community)
 - 🚀 Building in public & contributing to open-source AI tools
 
 ### 🔹 What I Build
-- **Production RAG Systems**: Hybrid vector search, graph retrieval, and neural reranking pipelines
-- **Multi-Agent Orchestration**: Autonomous agent loops, tool calling, and self-reflection patterns
+- **Production RAG Systems**
+- **Multi-Agent Orchestration**
 - **AI Backends & APIs**: High-throughput FastAPI services, Next.js App Router, Docker, and GCP
 - **Open-Source Guides**: Hands-on build specs, starter codebases, and technical interview blueprints
 
@@ -29,7 +29,7 @@
 ## 🧠 Current Focus
 
 - ⚡ Fine-tuning domain-specific retrieval & reranking models
-- 🤖 Advanced multi-agent orchestration patterns (LangGraph, CrewAI, AutoGen)
+- 🤖 Advanced multi-agent orchestration patterns (LangGraph)
 - 🌐 Publishing interactive AI engineering projects & interview breakdowns at **[chandrakethan.com](https://chandrakethan.com)**
 
 ---
